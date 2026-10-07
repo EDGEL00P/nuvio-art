@@ -22,7 +22,9 @@
             "sortBy": "vote_average.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/featured-this-week/the-headliner.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/featured-this-week/the-headliner.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/featured-this-week/the-headliner.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-featured-the-visionary",
@@ -39,7 +41,9 @@
             "sortBy": "vote_average.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/featured-this-week/the-visionary.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/featured-this-week/the-visionary.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/featured-this-week/the-visionary.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-featured-the-powerhouse",
@@ -56,7 +60,9 @@
             "sortBy": "vote_average.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/featured-this-week/the-powerhouse.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/featured-this-week/the-powerhouse.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/featured-this-week/the-powerhouse.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-featured-the-saga",
@@ -73,7 +79,9 @@
             "sortBy": "vote_average.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/featured-this-week/the-saga.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/featured-this-week/the-saga.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/featured-this-week/the-saga.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-featured-the-cultural-pulse",
@@ -90,7 +98,9 @@
             "sortBy": "vote_average.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/featured-this-week/the-cultural-pulse.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/featured-this-week/the-cultural-pulse.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/featured-this-week/the-cultural-pulse.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-featured-the-prestige-darling",
@@ -107,7 +117,9 @@
             "sortBy": "vote_average.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/featured-this-week/the-prestige-darling.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/featured-this-week/the-prestige-darling.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/featured-this-week/the-prestige-darling.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-featured-the-living-legend",
@@ -124,7 +136,9 @@
             "sortBy": "vote_average.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/featured-this-week/the-living-legend.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/featured-this-week/the-living-legend.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/featured-this-week/the-living-legend.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-featured-retro-rewind",
@@ -141,7 +155,9 @@
             "sortBy": "vote_average.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/featured-this-week/retro-rewind.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/featured-this-week/retro-rewind.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/featured-this-week/retro-rewind.gif",
+        "focusGifEnabled": true
       }
     ]
   },
@@ -936,7 +952,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/trending-and-new/critics-picks.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/trending-and-new/critics-picks.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/trending-and-new/critics-picks.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-trending-top-movies",
@@ -1146,7 +1164,9 @@
             "sortHow": "asc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/trending-and-new/top-series.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/trending-and-new/top-series.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/trending-and-new/top-series.gif",
+        "focusGifEnabled": true
       }
     ]
   },
@@ -1357,7 +1377,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-services/netflix.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-services/netflix.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-services/netflix.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-streaming-disneyplus",
@@ -1759,7 +1781,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-services/prime-video.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-services/prime-video.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-services/prime-video.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-streaming-hbo-max",
@@ -2559,7 +2583,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-services/paramountplus.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-services/paramountplus.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-services/paramountplus.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-streaming-peacock",
@@ -3359,7 +3385,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-services/amcplus.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-services/amcplus.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-services/amcplus.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-streaming-starz",
@@ -3757,7 +3785,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-services/mgmplus.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-services/mgmplus.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-services/mgmplus.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-streaming-criterion",
@@ -5010,7 +5040,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-services/magellan.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-services/magellan.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-services/magellan.gif",
+        "focusGifEnabled": true
       }
     ]
   },
@@ -6918,7 +6950,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-worldwide/foxtel-now.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-worldwide/foxtel-now.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-worldwide/foxtel-now.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-streaming-world-abc-iview",
@@ -7128,7 +7162,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-worldwide/abc-iview.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-worldwide/abc-iview.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-worldwide/abc-iview.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-streaming-world-sbs-on-demand",
@@ -7338,7 +7374,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-worldwide/sbs-on-demand.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-worldwide/sbs-on-demand.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-worldwide/sbs-on-demand.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-streaming-world-crave",
@@ -7548,7 +7586,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-worldwide/crave.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-worldwide/crave.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-worldwide/crave.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-streaming-world-cbc-gem",
@@ -7968,7 +8008,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-worldwide/tvnzplus.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-worldwide/tvnzplus.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-worldwide/tvnzplus.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-streaming-world-hayu",
@@ -8178,7 +8220,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-worldwide/hayu.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-worldwide/hayu.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/streaming-worldwide/hayu.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-streaming-world-acorn-tv",
@@ -12525,7 +12569,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/date-night.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/date-night.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/date-night.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-moods-laugh-out-loud",
@@ -12735,7 +12781,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/feel-good.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/feel-good.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/feel-good.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-moods-cozy-and-comforting",
@@ -12830,7 +12878,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/cozy-and-comforting.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/cozy-and-comforting.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/cozy-and-comforting.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-moods-mind-bending",
@@ -12925,7 +12975,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/mind-bending.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/mind-bending.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/mind-bending.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-moods-adrenaline-rush",
@@ -13020,7 +13072,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/adrenaline-rush.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/adrenaline-rush.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/adrenaline-rush.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-moods-epic-and-sweeping",
@@ -13116,7 +13170,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/epic-and-sweeping.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/epic-and-sweeping.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/epic-and-sweeping.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-moods-slow-burn",
@@ -13212,7 +13268,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/slow-burn.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/slow-burn.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/slow-burn.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-moods-tearjerkers",
@@ -13414,7 +13472,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/80s-and-90s-vibes.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/80s-and-90s-vibes.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/80s-and-90s-vibes.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-moods-dark-and-gritty",
@@ -13509,7 +13569,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/dark-and-gritty.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/dark-and-gritty.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/dark-and-gritty.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-moods-spooky-and-creepy",
@@ -13607,7 +13669,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/spooky-and-creepy.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/spooky-and-creepy.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/moods-and-vibes/spooky-and-creepy.gif",
+        "focusGifEnabled": true
       }
     ]
   },
@@ -14027,7 +14091,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/micro-genres/revenge-stories.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/micro-genres/revenge-stories.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/micro-genres/revenge-stories.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-micro-coming-of-age",
@@ -14136,7 +14202,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/micro-genres/coming-of-age.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/micro-genres/coming-of-age.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/micro-genres/coming-of-age.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-micro-dystopian-futures",
@@ -14437,7 +14505,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/micro-genres/survival-against-the-odds.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/micro-genres/survival-against-the-odds.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/micro-genres/survival-against-the-odds.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-micro-zombies-and-vampires",
@@ -14629,7 +14699,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/micro-genres/serial-killers.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/micro-genres/serial-killers.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/micro-genres/serial-killers.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-micro-spies-and-secret-agents",
@@ -14930,7 +15002,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/micro-genres/road-trips.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/micro-genres/road-trips.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/micro-genres/road-trips.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-micro-giant-monsters-and-dinosaurs",
@@ -15137,7 +15211,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/micro-genres/alien-invasion.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/micro-genres/alien-invasion.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/micro-genres/alien-invasion.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-micro-haunted-houses",
@@ -15233,7 +15309,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/micro-genres/haunted-houses.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/micro-genres/haunted-houses.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/micro-genres/haunted-houses.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-micro-small-towns-big-secrets",
@@ -15329,7 +15407,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/micro-genres/small-towns-big-secrets.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/micro-genres/small-towns-big-secrets.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/micro-genres/small-towns-big-secrets.gif",
+        "focusGifEnabled": true
       }
     ]
   },
@@ -15375,7 +15455,9 @@
             "sortBy": "original"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/the-avengers.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/the-avengers.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/the-avengers.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-franchises-harry-potter",
@@ -15496,7 +15578,9 @@
             "sortBy": "original"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/jurassic-park.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/jurassic-park.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/jurassic-park.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-franchises-indiana-jones",
@@ -15566,7 +15650,9 @@
             "sortBy": "original"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/toy-story.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/toy-story.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/toy-story.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-franchises-shrek",
@@ -15583,7 +15669,9 @@
             "sortBy": "original"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/shrek.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/shrek.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/shrek.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-franchises-pirates-of-the-caribbean",
@@ -15672,7 +15760,9 @@
             "sortBy": "original"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/the-terminator.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/the-terminator.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/the-terminator.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-franchises-back-to-the-future",
@@ -15776,7 +15866,9 @@
             "sortBy": "original"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/despicable-me.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/despicable-me.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/despicable-me.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-franchises-how-to-train-your-dragon",
@@ -15812,7 +15904,9 @@
             "sortBy": "original"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/guardians-of-the-galaxy.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/guardians-of-the-galaxy.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/guardians-of-the-galaxy.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-franchises-x-men",
@@ -15846,7 +15940,9 @@
             "sortBy": "original"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/mad-max.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/mad-max.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/mad-max.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-franchises-transformers",
@@ -15952,7 +16048,9 @@
             "sortBy": "original"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/home-alone.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/home-alone.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/home-alone.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-franchises-action-franchises",
@@ -16377,7 +16475,9 @@
             "sortBy": "original"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/action-franchises.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/action-franchises.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/action-franchises.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-franchises-comedy-franchises",
@@ -16674,7 +16774,9 @@
             "sortBy": "original"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/comedy-franchises.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/comedy-franchises.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/comedy-franchises.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-franchises-crime-franchises",
@@ -16755,7 +16857,9 @@
             "sortBy": "original"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/crime-franchises.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/crime-franchises.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/crime-franchises.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-franchises-drama-franchises",
@@ -16844,7 +16948,9 @@
             "sortBy": "original"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/drama-franchises.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/drama-franchises.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/drama-franchises.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-franchises-family-and-animation-franchises",
@@ -17237,7 +17343,9 @@
             "sortBy": "original"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/family-and-animation-franchises.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/family-and-animation-franchises.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/family-and-animation-franchises.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-franchises-fantasy-franchises",
@@ -17438,7 +17546,9 @@
             "sortBy": "original"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/fantasy-franchises.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/fantasy-franchises.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/fantasy-franchises.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-franchises-horror-franchises",
@@ -17783,7 +17893,9 @@
             "sortBy": "original"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/horror-franchises.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/horror-franchises.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/horror-franchises.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-franchises-mystery-franchises",
@@ -17832,7 +17944,9 @@
             "sortBy": "original"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/mystery-franchises.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/mystery-franchises.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/mystery-franchises.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-franchises-sci-fi-franchises",
@@ -18137,7 +18251,9 @@
             "sortBy": "original"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/sci-fi-franchises.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/sci-fi-franchises.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/franchises-and-sagas/sci-fi-franchises.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-franchises-thriller-franchises",
@@ -18433,7 +18549,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/kids-and-family/family-favorites.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/kids-and-family/family-favorites.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/kids-and-family/family-favorites.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-kids-animated-studio-spotlight",
@@ -18553,7 +18671,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/kids-and-family/animated-studio-spotlight.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/kids-and-family/animated-studio-spotlight.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/kids-and-family/animated-studio-spotlight.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-kids-family-movie-night",
@@ -18933,7 +19053,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/kids-and-family/family-tv-series.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/kids-and-family/family-tv-series.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/kids-and-family/family-tv-series.gif",
+        "focusGifEnabled": true
       }
     ]
   },
@@ -18976,7 +19098,9 @@
             "sortBy": "primary_release_date.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/tom-cruise.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/tom-cruise.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/tom-cruise.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-leonardo-dicaprio",
@@ -19009,7 +19133,9 @@
             "sortBy": "primary_release_date.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/leonardo-dicaprio.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/leonardo-dicaprio.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/leonardo-dicaprio.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-brad-pitt",
@@ -19067,7 +19193,9 @@
             "sortBy": "primary_release_date.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/christopher-nolan.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/christopher-nolan.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/christopher-nolan.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-denzel-washington",
@@ -19159,7 +19287,9 @@
             "sortHow": "desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/tom-hanks.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/tom-hanks.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/tom-hanks.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-keanu-reeves",
@@ -19216,7 +19346,9 @@
             "sortHow": "desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/keanu-reeves.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/keanu-reeves.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/keanu-reeves.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-directors-steven-spielberg",
@@ -19241,7 +19373,9 @@
             "sortBy": "primary_release_date.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/steven-spielberg.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/steven-spielberg.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/steven-spielberg.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-margot-robbie",
@@ -19298,7 +19432,9 @@
             "sortHow": "desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/margot-robbie.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/margot-robbie.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/margot-robbie.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-zendaya",
@@ -19331,7 +19467,9 @@
             "sortBy": "primary_release_date.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/zendaya.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/zendaya.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/zendaya.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-timothee-chalamet",
@@ -19364,7 +19502,9 @@
             "sortBy": "primary_release_date.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/timoth-e-chalamet.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/timoth-e-chalamet.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/timoth-e-chalamet.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-directors-martin-scorsese",
@@ -19446,7 +19586,9 @@
             "sortHow": "desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/pedro-pascal.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/pedro-pascal.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/pedro-pascal.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-scarlett-johansson",
@@ -19479,7 +19621,9 @@
             "sortBy": "primary_release_date.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/scarlett-johansson.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/scarlett-johansson.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/scarlett-johansson.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-robert-downey-jr",
@@ -19512,7 +19656,9 @@
             "sortBy": "primary_release_date.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/robert-downey-jr.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/robert-downey-jr.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/robert-downey-jr.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-directors-quentin-tarantino",
@@ -19594,7 +19740,9 @@
             "sortHow": "desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/chris-hemsworth.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/chris-hemsworth.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/chris-hemsworth.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-dwayne-johnson",
@@ -19627,7 +19775,9 @@
             "sortBy": "primary_release_date.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/dwayne-johnson.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/dwayne-johnson.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/dwayne-johnson.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-ryan-gosling",
@@ -19684,7 +19834,9 @@
             "sortHow": "desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/ryan-gosling.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/ryan-gosling.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/ryan-gosling.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-directors-denis-villeneuve",
@@ -19742,7 +19894,9 @@
             "sortBy": "primary_release_date.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/ryan-reynolds.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/ryan-reynolds.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/ryan-reynolds.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-florence-pugh",
@@ -19799,7 +19953,9 @@
             "sortHow": "desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/florence-pugh.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/florence-pugh.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/florence-pugh.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-jennifer-lawrence",
@@ -19832,7 +19988,9 @@
             "sortBy": "primary_release_date.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/jennifer-lawrence.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/jennifer-lawrence.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/jennifer-lawrence.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-directors-ridley-scott",
@@ -19857,7 +20015,9 @@
             "sortBy": "primary_release_date.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/ridley-scott.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/ridley-scott.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/ridley-scott.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-emma-stone",
@@ -19890,7 +20050,9 @@
             "sortBy": "primary_release_date.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/emma-stone.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/emma-stone.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/emma-stone.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-anya-taylor-joy",
@@ -19947,7 +20109,9 @@
             "sortHow": "desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/anya-taylor-joy.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/anya-taylor-joy.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/anya-taylor-joy.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-cillian-murphy",
@@ -20004,7 +20168,9 @@
             "sortHow": "desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/cillian-murphy.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/cillian-murphy.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/cillian-murphy.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-directors-james-cameron",
@@ -20029,7 +20195,9 @@
             "sortBy": "primary_release_date.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/james-cameron.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/james-cameron.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/james-cameron.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-morgan-freeman",
@@ -20062,7 +20230,9 @@
             "sortBy": "primary_release_date.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/morgan-freeman.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/morgan-freeman.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/morgan-freeman.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-meryl-streep",
@@ -20119,7 +20289,9 @@
             "sortHow": "desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/meryl-streep.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/meryl-streep.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/meryl-streep.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-al-pacino",
@@ -20144,7 +20316,9 @@
             "sortBy": "vote_average.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/al-pacino.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/al-pacino.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/al-pacino.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-directors-david-fincher",
@@ -20169,7 +20343,9 @@
             "sortBy": "primary_release_date.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/david-fincher.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/david-fincher.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/david-fincher.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-robert-de-niro",
@@ -20194,7 +20370,9 @@
             "sortBy": "vote_average.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/robert-de-niro.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/robert-de-niro.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/robert-de-niro.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-will-smith",
@@ -20251,7 +20429,9 @@
             "sortHow": "desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/will-smith.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/will-smith.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/will-smith.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-sandra-bullock",
@@ -20284,7 +20464,9 @@
             "sortBy": "primary_release_date.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/sandra-bullock.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/sandra-bullock.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/sandra-bullock.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-directors-greta-gerwig",
@@ -20309,7 +20491,9 @@
             "sortBy": "primary_release_date.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/greta-gerwig.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/greta-gerwig.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/greta-gerwig.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-julia-roberts",
@@ -20342,7 +20526,9 @@
             "sortBy": "primary_release_date.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/julia-roberts.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/julia-roberts.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/julia-roberts.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-jim-carrey",
@@ -20375,7 +20561,9 @@
             "sortBy": "primary_release_date.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/jim-carrey.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/jim-carrey.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/jim-carrey.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-adam-sandler",
@@ -20408,7 +20596,9 @@
             "sortBy": "primary_release_date.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/adam-sandler.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/adam-sandler.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/adam-sandler.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-directors-jordan-peele",
@@ -20433,7 +20623,9 @@
             "sortBy": "primary_release_date.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/jordan-peele.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/jordan-peele.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/jordan-peele.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-jackie-chan",
@@ -20466,7 +20658,9 @@
             "sortBy": "primary_release_date.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/jackie-chan.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/jackie-chan.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/jackie-chan.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-michelle-yeoh",
@@ -20523,7 +20717,9 @@
             "sortHow": "desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/michelle-yeoh.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/michelle-yeoh.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/michelle-yeoh.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-samuel-l-jackson",
@@ -20580,7 +20776,9 @@
             "sortHow": "desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/samuel-l-jackson.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/samuel-l-jackson.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/samuel-l-jackson.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-directors-hayao-miyazaki",
@@ -20632,7 +20830,9 @@
             "sortBy": "vote_average.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/harrison-ford.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/harrison-ford.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/harrison-ford.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-hugh-jackman",
@@ -20689,7 +20889,9 @@
             "sortHow": "desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/hugh-jackman.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/hugh-jackman.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/hugh-jackman.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-stars-jenna-ortega",
@@ -20746,7 +20948,9 @@
             "sortHow": "desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/jenna-ortega.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/jenna-ortega.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/jenna-ortega.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-directors-stanley-kubrick",
@@ -20771,7 +20975,9 @@
             "sortBy": "primary_release_date.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/stanley-kubrick.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/stanley-kubrick.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/stanley-kubrick.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-directors-guillermo-del-toro",
@@ -20821,7 +21027,9 @@
             "sortBy": "primary_release_date.desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/wes-anderson.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/wes-anderson.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/stars-and-directors/wes-anderson.gif",
+        "focusGifEnabled": true
       }
     ]
   },
@@ -21244,7 +21452,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/lucasfilm-ltd.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/lucasfilm-ltd.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/lucasfilm-ltd.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-networks-fx",
@@ -21440,7 +21650,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/amc.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/amc.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/amc.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-studios-a24",
@@ -21887,7 +22099,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/nbc.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/nbc.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/nbc.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-studios-universal-pictures",
@@ -22030,7 +22244,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/abc.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/abc.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/abc.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-studios-dreamworks-pictures",
@@ -22171,7 +22387,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/cbs.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/cbs.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/cbs.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-studios-illumination",
@@ -22219,7 +22437,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/illumination.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/illumination.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/illumination.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-networks-fox",
@@ -22270,7 +22490,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/fox.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/fox.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/fox.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-studios-blumhouse-productions",
@@ -22360,7 +22582,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/blumhouse-productions.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/blumhouse-productions.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/blumhouse-productions.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-networks-the-cw",
@@ -22411,7 +22635,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/the-cw.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/the-cw.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/the-cw.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-networks-comedy-central",
@@ -22566,7 +22792,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/cartoon-network.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/cartoon-network.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/cartoon-network.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-networks-nickelodeon",
@@ -22670,7 +22898,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/disney-channel.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/disney-channel.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/disney-channel.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-networks-national-geographic",
@@ -22774,7 +23004,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/discovery.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/discovery.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/discovery.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-networks-history",
@@ -23131,7 +23363,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/sky-atlantic.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/sky-atlantic.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/sky-atlantic.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-networks-abc-tv-au",
@@ -23182,7 +23416,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/abc-tv-au.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/abc-tv-au.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/abc-tv-au.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-networks-tvn",
@@ -23233,7 +23469,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/tvn.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/tvn.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/networks-and-studios/tvn.gif",
+        "focusGifEnabled": true
       }
     ]
   },
@@ -23518,7 +23756,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/latin-american-cinema.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/latin-american-cinema.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/latin-american-cinema.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-world-nordic-cinema",
@@ -23609,7 +23849,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/nordic-cinema.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/nordic-cinema.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/nordic-cinema.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-world-middle-eastern-cinema",
@@ -23700,7 +23942,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/middle-eastern-cinema.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/middle-eastern-cinema.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/middle-eastern-cinema.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-world-african-cinema",
@@ -23791,7 +24035,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/african-cinema.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/african-cinema.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/african-cinema.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-world-southeast-asian-cinema",
@@ -23882,7 +24128,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/southeast-asian-cinema.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/southeast-asian-cinema.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/southeast-asian-cinema.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-world-north-american-cinema",
@@ -23973,7 +24221,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/north-american-cinema.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/north-american-cinema.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/north-american-cinema.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-world-korean-cinema",
@@ -24337,7 +24587,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/french-cinema.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/french-cinema.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/french-cinema.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-world-spanish-cinema",
@@ -24610,7 +24862,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/german-cinema.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/german-cinema.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/german-cinema.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-world-british-cinema",
@@ -24885,7 +25139,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/hong-kong-cinema.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/hong-kong-cinema.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/hong-kong-cinema.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-world-mexican-cinema",
@@ -24976,7 +25232,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/mexican-cinema.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/mexican-cinema.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/mexican-cinema.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-world-australian-cinema",
@@ -25067,7 +25325,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/australian-cinema.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/australian-cinema.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/world-cinema/australian-cinema.gif",
+        "focusGifEnabled": true
       }
     ]
   },
@@ -25260,7 +25520,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/explore/based-on-a-book.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/explore/based-on-a-book.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/explore/based-on-a-book.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-based-on-comics",
@@ -25353,7 +25615,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/explore/based-on-comics.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/explore/based-on-comics.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/explore/based-on-comics.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-based-on-video-games",
@@ -25446,7 +25710,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/explore/based-on-video-games.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/explore/based-on-video-games.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/explore/based-on-video-games.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-based-on-fairy-tale",
@@ -25539,7 +25805,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/explore/fairy-tales.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/explore/fairy-tales.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/explore/fairy-tales.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-based-on-mythology",
@@ -25907,7 +26175,9 @@
             "sortHow": "desc"
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/explore/golden-globes.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/explore/golden-globes.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/explore/golden-globes.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-decades-2020s",
@@ -26114,7 +26384,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/explore/2020s.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/explore/2020s.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/explore/2020s.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-decades-2010s",
@@ -26528,7 +26800,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/explore/2000s.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/explore/2000s.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/explore/2000s.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-decades-1990s",
@@ -26735,7 +27009,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/explore/1990s.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/explore/1990s.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/explore/1990s.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-decades-1980s",
@@ -26942,7 +27218,9 @@
             }
           }
         ],
-        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/explore/1980s.png"
+        "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/explore/1980s.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/cards/explore/1980s.gif",
+        "focusGifEnabled": true
       },
       {
         "id": "nu-decades-1970s",
