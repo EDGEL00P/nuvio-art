@@ -24,7 +24,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/featured/star-of-the-week_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/featured/star-of-the-week_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/featured/star-of-the-week_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/featured/star-of-the-week.gif",
         "focusGifEnabled": true
       },
@@ -45,7 +44,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/featured/director-of-the-week_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/featured/director-of-the-week_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/featured/director-of-the-week_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/featured/director-of-the-week.gif",
         "focusGifEnabled": true
       },
@@ -66,7 +64,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/featured/studio-of-the-week_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/featured/studio-of-the-week_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/featured/studio-of-the-week_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/featured/studio-of-the-week.gif",
         "focusGifEnabled": true
       },
@@ -87,7 +84,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/featured/saga-of-the-week_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/featured/saga-of-the-week_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/featured/saga-of-the-week_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/featured/saga-of-the-week.gif",
         "focusGifEnabled": true
       }
@@ -273,7 +269,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/trending/trending-movies_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/trending/trending-movies_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/trending/trending-movies_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/trending/trending-movies.gif",
         "focusGifEnabled": true
       },
@@ -439,7 +434,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/trending/trending-tv_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/trending/trending-tv_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/trending/trending-tv_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/trending/trending-tv.gif",
         "focusGifEnabled": true
       },
@@ -615,7 +609,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/trending/new-movies_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/trending/new-movies_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/trending/new-movies_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/trending/new-movies.gif",
         "focusGifEnabled": true
       },
@@ -781,7 +774,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/trending/new-series_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/trending/new-series_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/trending/new-series_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/trending/new-series.gif",
         "focusGifEnabled": true
       },
@@ -890,7 +882,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/trending/top-10-movies_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/trending/top-10-movies_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/trending/top-10-movies_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/trending/top-10-movies.gif",
         "focusGifEnabled": true
       },
@@ -999,7 +990,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/trending/top-10-series_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/trending/top-10-series_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/trending/top-10-series_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/trending/top-10-series.gif",
         "focusGifEnabled": true
       },
@@ -1120,7 +1110,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/trending/best-of-the-year_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/trending/best-of-the-year_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/trending/best-of-the-year_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/trending/best-of-the-year.gif",
         "focusGifEnabled": true
       }
@@ -1373,7 +1362,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/action_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/action_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/action_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/action.gif",
         "focusGifEnabled": true
       },
@@ -1502,7 +1490,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/adventure_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/adventure_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/adventure_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/adventure.gif",
         "focusGifEnabled": true
       },
@@ -1713,7 +1700,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/anime_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/anime_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/anime_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/anime.gif",
         "focusGifEnabled": true
       },
@@ -1960,7 +1946,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/comedy_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/comedy_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/comedy_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/comedy.gif",
         "focusGifEnabled": true
       },
@@ -2175,7 +2160,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/crime_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/crime_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/crime_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/crime.gif",
         "focusGifEnabled": true
       },
@@ -2409,7 +2393,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/documentaries_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/documentaries_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/documentaries_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/documentaries.gif",
         "focusGifEnabled": true
       },
@@ -2538,7 +2521,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/drama_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/drama_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/drama_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/drama.gif",
         "focusGifEnabled": true
       },
@@ -2671,7 +2653,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/fantasy_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/fantasy_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/fantasy_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/fantasy.gif",
         "focusGifEnabled": true
       },
@@ -2800,7 +2781,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/horror_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/horror_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/horror_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/horror.gif",
         "focusGifEnabled": true
       },
@@ -2941,7 +2921,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/music-and-musicals_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/music-and-musicals_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/music-and-musicals_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/music-and-musicals.gif",
         "focusGifEnabled": true
       },
@@ -3070,7 +3049,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/mystery_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/mystery_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/mystery_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/mystery.gif",
         "focusGifEnabled": true
       },
@@ -3260,7 +3238,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/reality_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/reality_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/reality_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/reality.gif",
         "focusGifEnabled": true
       },
@@ -3431,7 +3408,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/romance_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/romance_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/romance_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/romance.gif",
         "focusGifEnabled": true
       },
@@ -3564,7 +3540,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/sci-fi_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/sci-fi_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/sci-fi_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/sci-fi.gif",
         "focusGifEnabled": true
       },
@@ -3677,7 +3652,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/sports_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/sports_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/sports_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/sports.gif",
         "focusGifEnabled": true
       },
@@ -3890,7 +3864,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/superhero_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/superhero_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/superhero_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/superhero.gif",
         "focusGifEnabled": true
       },
@@ -4019,7 +3992,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/thriller_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/thriller_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/thriller_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/thriller.gif",
         "focusGifEnabled": true
       },
@@ -4204,7 +4176,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/war-and-history_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/war-and-history_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/war-and-history_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/war-and-history.gif",
         "focusGifEnabled": true
       },
@@ -4333,7 +4304,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/western_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/western_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/western_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/genres/western.gif",
         "focusGifEnabled": true
       }
@@ -4530,7 +4500,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/feel-good_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/feel-good_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/feel-good_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/feel-good.gif",
         "focusGifEnabled": true
       },
@@ -4669,7 +4638,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/date-night_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/date-night_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/date-night_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/date-night.gif",
         "focusGifEnabled": true
       },
@@ -4772,7 +4740,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/tearjerkers_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/tearjerkers_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/tearjerkers_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/tearjerkers.gif",
         "focusGifEnabled": true
       },
@@ -4875,7 +4842,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/mind-bending_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/mind-bending_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/mind-bending_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/mind-bending.gif",
         "focusGifEnabled": true
       },
@@ -4975,7 +4941,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/slow-burn_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/slow-burn_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/slow-burn_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/slow-burn.gif",
         "focusGifEnabled": true
       },
@@ -5075,7 +5040,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/epics_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/epics_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/epics_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/epics.gif",
         "focusGifEnabled": true
       },
@@ -5308,7 +5272,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/christmas_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/christmas_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/christmas_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/christmas.gif",
         "focusGifEnabled": true
       },
@@ -5376,7 +5339,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/hallmark-christmas_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/hallmark-christmas_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/hallmark-christmas_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/hallmark-christmas.gif",
         "focusGifEnabled": true
       },
@@ -5470,7 +5432,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/halloween-night_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/halloween-night_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/halloween-night_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/halloween-night.gif",
         "focusGifEnabled": true
       },
@@ -5536,7 +5497,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/thanksgiving-and-new-year_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/thanksgiving-and-new-year_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/thanksgiving-and-new-year_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/thanksgiving-and-new-year.gif",
         "focusGifEnabled": true
       },
@@ -5649,7 +5609,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/time-travel_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/time-travel_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/time-travel_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/time-travel.gif",
         "focusGifEnabled": true
       },
@@ -5749,7 +5708,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/heists_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/heists_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/heists_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/heists.gif",
         "focusGifEnabled": true
       },
@@ -5862,7 +5820,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/ai-and-robots_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/ai-and-robots_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/ai-and-robots_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/ai-and-robots.gif",
         "focusGifEnabled": true
       },
@@ -5962,7 +5919,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/revenge_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/revenge_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/revenge_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/revenge.gif",
         "focusGifEnabled": true
       },
@@ -6075,7 +6031,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/coming-of-age_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/coming-of-age_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/coming-of-age_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/coming-of-age.gif",
         "focusGifEnabled": true
       },
@@ -6175,7 +6130,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/dystopias_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/dystopias_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/dystopias_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/dystopias.gif",
         "focusGifEnabled": true
       },
@@ -6288,7 +6242,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/space_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/space_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/space_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/space.gif",
         "focusGifEnabled": true
       },
@@ -6388,7 +6341,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/survival_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/survival_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/survival_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/survival.gif",
         "focusGifEnabled": true
       },
@@ -6488,7 +6440,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/zombies-and-vampires_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/zombies-and-vampires_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/zombies-and-vampires_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/zombies-and-vampires.gif",
         "focusGifEnabled": true
       },
@@ -6588,7 +6539,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/serial-killers_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/serial-killers_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/serial-killers_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/serial-killers.gif",
         "focusGifEnabled": true
       },
@@ -6688,7 +6638,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/spies_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/spies_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/spies_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/spies.gif",
         "focusGifEnabled": true
       },
@@ -6788,7 +6737,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/whodunits_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/whodunits_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/whodunits_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/whodunits.gif",
         "focusGifEnabled": true
       },
@@ -6901,7 +6849,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/road-trips_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/road-trips_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/road-trips_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/road-trips.gif",
         "focusGifEnabled": true
       },
@@ -7014,7 +6961,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/monsters-and-dinosaurs_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/monsters-and-dinosaurs_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/monsters-and-dinosaurs_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/monsters-and-dinosaurs.gif",
         "focusGifEnabled": true
       },
@@ -7114,7 +7060,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/alien-invasion_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/alien-invasion_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/alien-invasion_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/alien-invasion.gif",
         "focusGifEnabled": true
       },
@@ -7303,7 +7248,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/haunted-houses_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/haunted-houses_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/haunted-houses_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/haunted-houses.gif",
         "focusGifEnabled": true
       },
@@ -7403,7 +7347,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/small-town-secrets_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/small-town-secrets_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/small-town-secrets_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/small-town-secrets.gif",
         "focusGifEnabled": true
       },
@@ -7497,7 +7440,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/true-stories_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/true-stories_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/true-stories_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/true-stories.gif",
         "focusGifEnabled": true
       },
@@ -7594,7 +7536,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/book-adaptations_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/book-adaptations_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/book-adaptations_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/book-adaptations.gif",
         "focusGifEnabled": true
       },
@@ -7691,7 +7632,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/video-game-movies_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/video-game-movies_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/video-game-movies_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/video-game-movies.gif",
         "focusGifEnabled": true
       },
@@ -7788,7 +7728,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/fairy-tales_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/fairy-tales_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/fairy-tales_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/fairy-tales.gif",
         "focusGifEnabled": true
       },
@@ -7885,7 +7824,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/myths-and-legends_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/myths-and-legends_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/myths-and-legends_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/moods-and-themes/myths-and-legends.gif",
         "focusGifEnabled": true
       }
@@ -7940,7 +7878,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/sandra-bullock_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/sandra-bullock_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/sandra-bullock_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/sandra-bullock.gif",
         "focusGifEnabled": true
       },
@@ -7985,7 +7922,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/jim-carrey_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/jim-carrey_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/jim-carrey_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/jim-carrey.gif",
         "focusGifEnabled": true
       },
@@ -8030,7 +7966,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/timothee-chalamet_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/timothee-chalamet_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/timothee-chalamet_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/timothee-chalamet.gif",
         "focusGifEnabled": true
       },
@@ -8075,7 +8010,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/jackie-chan_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/jackie-chan_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/jackie-chan_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/jackie-chan.gif",
         "focusGifEnabled": true
       },
@@ -8120,7 +8054,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/tom-cruise_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/tom-cruise_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/tom-cruise_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/tom-cruise.gif",
         "focusGifEnabled": true
       },
@@ -8165,7 +8098,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/leonardo-dicaprio_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/leonardo-dicaprio_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/leonardo-dicaprio_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/leonardo-dicaprio.gif",
         "focusGifEnabled": true
       },
@@ -8210,7 +8142,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/robert-downey-jr_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/robert-downey-jr_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/robert-downey-jr_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/robert-downey-jr.gif",
         "focusGifEnabled": true
       },
@@ -8247,7 +8178,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/harrison-ford_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/harrison-ford_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/harrison-ford_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/harrison-ford.gif",
         "focusGifEnabled": true
       },
@@ -8292,7 +8222,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/morgan-freeman_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/morgan-freeman_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/morgan-freeman_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/morgan-freeman.gif",
         "focusGifEnabled": true
       },
@@ -8361,7 +8290,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/ryan-gosling_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/ryan-gosling_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/ryan-gosling_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/ryan-gosling.gif",
         "focusGifEnabled": true
       },
@@ -8430,7 +8358,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/tom-hanks_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/tom-hanks_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/tom-hanks_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/tom-hanks.gif",
         "focusGifEnabled": true
       },
@@ -8499,7 +8426,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/chris-hemsworth_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/chris-hemsworth_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/chris-hemsworth_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/chris-hemsworth.gif",
         "focusGifEnabled": true
       },
@@ -8568,7 +8494,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/hugh-jackman_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/hugh-jackman_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/hugh-jackman_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/hugh-jackman.gif",
         "focusGifEnabled": true
       },
@@ -8637,7 +8562,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/samuel-l-jackson_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/samuel-l-jackson_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/samuel-l-jackson_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/samuel-l-jackson.gif",
         "focusGifEnabled": true
       },
@@ -8682,7 +8606,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/scarlett-johansson_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/scarlett-johansson_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/scarlett-johansson_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/scarlett-johansson.gif",
         "focusGifEnabled": true
       },
@@ -8711,7 +8634,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/dwayne-johnson_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/dwayne-johnson_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/dwayne-johnson_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/dwayne-johnson.gif",
         "focusGifEnabled": true
       },
@@ -8756,7 +8678,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/jennifer-lawrence_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/jennifer-lawrence_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/jennifer-lawrence_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/jennifer-lawrence.gif",
         "focusGifEnabled": true
       },
@@ -8825,7 +8746,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/cillian-murphy_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/cillian-murphy_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/cillian-murphy_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/cillian-murphy.gif",
         "focusGifEnabled": true
       },
@@ -8862,7 +8782,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/robert-de-niro_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/robert-de-niro_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/robert-de-niro_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/robert-de-niro.gif",
         "focusGifEnabled": true
       },
@@ -8931,7 +8850,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/jenna-ortega_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/jenna-ortega_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/jenna-ortega_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/jenna-ortega.gif",
         "focusGifEnabled": true
       },
@@ -8968,7 +8886,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/al-pacino_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/al-pacino_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/al-pacino_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/al-pacino.gif",
         "focusGifEnabled": true
       },
@@ -9037,7 +8954,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/pedro-pascal_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/pedro-pascal_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/pedro-pascal_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/pedro-pascal.gif",
         "focusGifEnabled": true
       },
@@ -9082,7 +8998,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/brad-pitt_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/brad-pitt_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/brad-pitt_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/brad-pitt.gif",
         "focusGifEnabled": true
       },
@@ -9151,7 +9066,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/florence-pugh_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/florence-pugh_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/florence-pugh_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/florence-pugh.gif",
         "focusGifEnabled": true
       },
@@ -9220,7 +9134,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/keanu-reeves_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/keanu-reeves_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/keanu-reeves_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/keanu-reeves.gif",
         "focusGifEnabled": true
       },
@@ -9265,7 +9178,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/ryan-reynolds_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/ryan-reynolds_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/ryan-reynolds_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/ryan-reynolds.gif",
         "focusGifEnabled": true
       },
@@ -9334,7 +9246,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/margot-robbie_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/margot-robbie_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/margot-robbie_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/margot-robbie.gif",
         "focusGifEnabled": true
       },
@@ -9379,7 +9290,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/julia-roberts_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/julia-roberts_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/julia-roberts_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/julia-roberts.gif",
         "focusGifEnabled": true
       },
@@ -9424,7 +9334,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/adam-sandler_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/adam-sandler_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/adam-sandler_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/adam-sandler.gif",
         "focusGifEnabled": true
       },
@@ -9493,7 +9402,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/will-smith_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/will-smith_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/will-smith_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/will-smith.gif",
         "focusGifEnabled": true
       },
@@ -9538,7 +9446,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/emma-stone_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/emma-stone_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/emma-stone_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/emma-stone.gif",
         "focusGifEnabled": true
       },
@@ -9607,7 +9514,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/meryl-streep_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/meryl-streep_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/meryl-streep_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/meryl-streep.gif",
         "focusGifEnabled": true
       },
@@ -9676,7 +9582,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/anya-taylor-joy_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/anya-taylor-joy_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/anya-taylor-joy_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/anya-taylor-joy.gif",
         "focusGifEnabled": true
       },
@@ -9721,7 +9626,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/denzel-washington_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/denzel-washington_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/denzel-washington_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/denzel-washington.gif",
         "focusGifEnabled": true
       },
@@ -9790,7 +9694,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/michelle-yeoh_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/michelle-yeoh_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/michelle-yeoh_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/michelle-yeoh.gif",
         "focusGifEnabled": true
       },
@@ -9835,7 +9738,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/zendaya_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/zendaya_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/zendaya_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/zendaya.gif",
         "focusGifEnabled": true
       },
@@ -9872,7 +9774,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/wes-anderson_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/wes-anderson_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/wes-anderson_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/wes-anderson.gif",
         "focusGifEnabled": true
       },
@@ -9909,7 +9810,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/james-cameron_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/james-cameron_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/james-cameron_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/james-cameron.gif",
         "focusGifEnabled": true
       },
@@ -9946,7 +9846,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/david-fincher_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/david-fincher_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/david-fincher_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/david-fincher.gif",
         "focusGifEnabled": true
       },
@@ -9983,7 +9882,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/greta-gerwig_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/greta-gerwig_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/greta-gerwig_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/greta-gerwig.gif",
         "focusGifEnabled": true
       },
@@ -10020,7 +9918,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/stanley-kubrick_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/stanley-kubrick_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/stanley-kubrick_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/stanley-kubrick.gif",
         "focusGifEnabled": true
       },
@@ -10057,7 +9954,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/hayao-miyazaki_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/hayao-miyazaki_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/hayao-miyazaki_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/hayao-miyazaki.gif",
         "focusGifEnabled": true
       },
@@ -10094,7 +9990,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/christopher-nolan_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/christopher-nolan_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/christopher-nolan_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/christopher-nolan.gif",
         "focusGifEnabled": true
       },
@@ -10131,7 +10026,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/jordan-peele_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/jordan-peele_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/jordan-peele_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/jordan-peele.gif",
         "focusGifEnabled": true
       },
@@ -10168,7 +10062,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/martin-scorsese_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/martin-scorsese_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/martin-scorsese_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/martin-scorsese.gif",
         "focusGifEnabled": true
       },
@@ -10205,7 +10098,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/ridley-scott_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/ridley-scott_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/ridley-scott_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/ridley-scott.gif",
         "focusGifEnabled": true
       },
@@ -10242,7 +10134,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/steven-spielberg_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/steven-spielberg_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/steven-spielberg_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/steven-spielberg.gif",
         "focusGifEnabled": true
       },
@@ -10279,7 +10170,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/quentin-tarantino_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/quentin-tarantino_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/quentin-tarantino_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/quentin-tarantino.gif",
         "focusGifEnabled": true
       },
@@ -10316,7 +10206,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/guillermo-del-toro_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/guillermo-del-toro_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/guillermo-del-toro_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/guillermo-del-toro.gif",
         "focusGifEnabled": true
       },
@@ -10353,7 +10242,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/denis-villeneuve_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/denis-villeneuve_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/denis-villeneuve_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/stars-and-directors/denis-villeneuve.gif",
         "focusGifEnabled": true
       }
@@ -10384,7 +10272,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/star-wars_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/star-wars_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/star-wars_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/star-wars.gif",
         "focusGifEnabled": true
       },
@@ -10405,7 +10292,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-avengers_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-avengers_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-avengers_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-avengers.gif",
         "focusGifEnabled": true
       },
@@ -10426,7 +10312,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/harry-potter_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/harry-potter_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/harry-potter_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/harry-potter.gif",
         "focusGifEnabled": true
       },
@@ -10447,7 +10332,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-lord-of-the-rings_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-lord-of-the-rings_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-lord-of-the-rings_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-lord-of-the-rings.gif",
         "focusGifEnabled": true
       },
@@ -10468,7 +10352,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/james-bond_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/james-bond_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/james-bond_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/james-bond.gif",
         "focusGifEnabled": true
       },
@@ -10489,7 +10372,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/fast-and-furious_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/fast-and-furious_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/fast-and-furious_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/fast-and-furious.gif",
         "focusGifEnabled": true
       },
@@ -10510,7 +10392,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/mission-impossible_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/mission-impossible_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/mission-impossible_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/mission-impossible.gif",
         "focusGifEnabled": true
       },
@@ -10531,7 +10412,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/john-wick_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/john-wick_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/john-wick_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/john-wick.gif",
         "focusGifEnabled": true
       },
@@ -10552,7 +10432,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/jurassic-park_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/jurassic-park_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/jurassic-park_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/jurassic-park.gif",
         "focusGifEnabled": true
       },
@@ -10573,7 +10452,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/indiana-jones_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/indiana-jones_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/indiana-jones_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/indiana-jones.gif",
         "focusGifEnabled": true
       },
@@ -10594,7 +10472,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-dark-knight_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-dark-knight_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-dark-knight_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-dark-knight.gif",
         "focusGifEnabled": true
       },
@@ -10615,7 +10492,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/spider-man_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/spider-man_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/spider-man_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/spider-man.gif",
         "focusGifEnabled": true
       },
@@ -10636,7 +10512,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/toy-story_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/toy-story_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/toy-story_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/toy-story.gif",
         "focusGifEnabled": true
       },
@@ -10657,7 +10532,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/shrek_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/shrek_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/shrek_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/shrek.gif",
         "focusGifEnabled": true
       },
@@ -10678,7 +10552,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/pirates-of-the-caribbean_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/pirates-of-the-caribbean_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/pirates-of-the-caribbean_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/pirates-of-the-caribbean.gif",
         "focusGifEnabled": true
       },
@@ -10699,7 +10572,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-hunger-games_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-hunger-games_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-hunger-games_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-hunger-games.gif",
         "focusGifEnabled": true
       },
@@ -10720,7 +10592,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-matrix_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-matrix_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-matrix_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-matrix.gif",
         "focusGifEnabled": true
       },
@@ -10741,7 +10612,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/alien_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/alien_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/alien_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/alien.gif",
         "focusGifEnabled": true
       },
@@ -10762,7 +10632,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-terminator_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-terminator_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-terminator_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-terminator.gif",
         "focusGifEnabled": true
       },
@@ -10783,7 +10652,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/back-to-the-future_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/back-to-the-future_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/back-to-the-future_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/back-to-the-future.gif",
         "focusGifEnabled": true
       },
@@ -10804,7 +10672,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-godfather_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-godfather_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-godfather_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-godfather.gif",
         "focusGifEnabled": true
       },
@@ -10833,7 +10700,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/rocky-and-creed_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/rocky-and-creed_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/rocky-and-creed_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/rocky-and-creed.gif",
         "focusGifEnabled": true
       },
@@ -10854,7 +10720,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/dune_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/dune_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/dune_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/dune.gif",
         "focusGifEnabled": true
       },
@@ -10875,7 +10740,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/despicable-me_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/despicable-me_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/despicable-me_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/despicable-me.gif",
         "focusGifEnabled": true
       },
@@ -10896,7 +10760,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/how-to-train-your-dragon_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/how-to-train-your-dragon_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/how-to-train-your-dragon_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/how-to-train-your-dragon.gif",
         "focusGifEnabled": true
       },
@@ -10917,7 +10780,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/guardians-of-the-galaxy_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/guardians-of-the-galaxy_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/guardians-of-the-galaxy_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/guardians-of-the-galaxy.gif",
         "focusGifEnabled": true
       },
@@ -10938,7 +10800,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/x-men_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/x-men_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/x-men_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/x-men.gif",
         "focusGifEnabled": true
       },
@@ -10959,7 +10820,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/mad-max_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/mad-max_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/mad-max_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/mad-max.gif",
         "focusGifEnabled": true
       },
@@ -10980,7 +10840,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/transformers_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/transformers_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/transformers_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/transformers.gif",
         "focusGifEnabled": true
       },
@@ -11001,7 +10860,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/planet-of-the-apes_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/planet-of-the-apes_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/planet-of-the-apes_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/planet-of-the-apes.gif",
         "focusGifEnabled": true
       },
@@ -11022,7 +10880,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/halloween_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/halloween_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/halloween_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/halloween.gif",
         "focusGifEnabled": true
       },
@@ -11043,7 +10900,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-conjuring_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-conjuring_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-conjuring_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/the-conjuring.gif",
         "focusGifEnabled": true
       },
@@ -11064,7 +10920,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/scream_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/scream_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/scream_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/scream.gif",
         "focusGifEnabled": true
       },
@@ -11085,7 +10940,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/home-alone_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/home-alone_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/home-alone_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/home-alone.gif",
         "focusGifEnabled": true
       },
@@ -11554,7 +11408,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/action-sagas_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/action-sagas_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/action-sagas_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/action-sagas.gif",
         "focusGifEnabled": true
       },
@@ -11855,7 +11708,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/comedy-sagas_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/comedy-sagas_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/comedy-sagas_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/comedy-sagas.gif",
         "focusGifEnabled": true
       },
@@ -12108,7 +11960,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/crime-and-thriller-sagas_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/crime-and-thriller-sagas_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/crime-and-thriller-sagas_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/crime-and-thriller-sagas.gif",
         "focusGifEnabled": true
       },
@@ -12505,7 +12356,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/family-sagas_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/family-sagas_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/family-sagas_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/family-sagas.gif",
         "focusGifEnabled": true
       },
@@ -12854,7 +12704,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/horror-sagas_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/horror-sagas_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/horror-sagas_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/horror-sagas.gif",
         "focusGifEnabled": true
       },
@@ -13355,7 +13204,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/sci-fi-and-fantasy-sagas_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/sci-fi-and-fantasy-sagas_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/sci-fi-and-fantasy-sagas_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/sci-fi-and-fantasy-sagas.gif",
         "focusGifEnabled": true
       },
@@ -13449,7 +13297,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/marvel_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/marvel_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/marvel_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/marvel.gif",
         "focusGifEnabled": true
       },
@@ -13543,7 +13390,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/disney_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/disney_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/disney_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/disney.gif",
         "focusGifEnabled": true
       },
@@ -13637,7 +13483,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/pixar_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/pixar_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/pixar_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/pixar.gif",
         "focusGifEnabled": true
       },
@@ -13731,7 +13576,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/lucasfilm_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/lucasfilm_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/lucasfilm_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/lucasfilm.gif",
         "focusGifEnabled": true
       },
@@ -13825,7 +13669,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/dc_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/dc_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/dc_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/dc.gif",
         "focusGifEnabled": true
       },
@@ -13919,7 +13762,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/a24_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/a24_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/a24_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/a24.gif",
         "focusGifEnabled": true
       },
@@ -13968,7 +13810,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/studio-ghibli_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/studio-ghibli_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/studio-ghibli_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/studio-ghibli.gif",
         "focusGifEnabled": true
       },
@@ -14020,7 +13861,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/warner-bros_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/warner-bros_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/warner-bros_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/warner-bros.gif",
         "focusGifEnabled": true
       },
@@ -14114,7 +13954,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/universal_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/universal_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/universal_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/universal.gif",
         "focusGifEnabled": true
       },
@@ -14208,7 +14047,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/dreamworks_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/dreamworks_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/dreamworks_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/dreamworks.gif",
         "focusGifEnabled": true
       },
@@ -14260,7 +14098,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/illumination_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/illumination_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/illumination_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/illumination.gif",
         "focusGifEnabled": true
       },
@@ -14354,7 +14191,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/blumhouse_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/blumhouse_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/blumhouse_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/franchises-and-studios/blumhouse.gif",
         "focusGifEnabled": true
       }
@@ -14580,7 +14416,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/netflix_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/netflix_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/netflix_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/netflix.gif",
         "focusGifEnabled": true
       },
@@ -14796,7 +14631,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/disneyplus_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/disneyplus_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/disneyplus_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/disneyplus.gif",
         "focusGifEnabled": true
       },
@@ -15012,7 +14846,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/prime-video_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/prime-video_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/prime-video_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/prime-video.gif",
         "focusGifEnabled": true
       },
@@ -15259,7 +15092,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/hbo-max_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/hbo-max_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/hbo-max_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/hbo-max.gif",
         "focusGifEnabled": true
       },
@@ -15467,7 +15299,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/apple-tvplus_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/apple-tvplus_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/apple-tvplus_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/apple-tvplus.gif",
         "focusGifEnabled": true
       },
@@ -15683,7 +15514,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/hulu_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/hulu_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/hulu_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/hulu.gif",
         "focusGifEnabled": true
       },
@@ -15899,7 +15729,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/paramountplus_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/paramountplus_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/paramountplus_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/paramountplus.gif",
         "focusGifEnabled": true
       },
@@ -16115,7 +15944,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/peacock_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/peacock_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/peacock_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/peacock.gif",
         "focusGifEnabled": true
       },
@@ -16316,7 +16144,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/crunchyroll_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/crunchyroll_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/crunchyroll_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/crunchyroll.gif",
         "focusGifEnabled": true
       },
@@ -16520,7 +16347,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/shudder_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/shudder_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/shudder_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/shudder.gif",
         "focusGifEnabled": true
       },
@@ -16766,7 +16592,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/amcplus_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/amcplus_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/amcplus_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/amcplus.gif",
         "focusGifEnabled": true
       },
@@ -17012,7 +16837,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/starz_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/starz_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/starz_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/starz.gif",
         "focusGifEnabled": true
       },
@@ -17214,7 +17038,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/mgmplus_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/mgmplus_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/mgmplus_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/mgmplus.gif",
         "focusGifEnabled": true
       },
@@ -17433,7 +17256,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/criterion_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/criterion_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/criterion_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/criterion.gif",
         "focusGifEnabled": true
       },
@@ -17638,7 +17460,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/tubi-tv_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/tubi-tv_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/tubi-tv_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/tubi-tv.gif",
         "focusGifEnabled": true
       },
@@ -17881,7 +17702,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/discoveryplus_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/discoveryplus_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/discoveryplus_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/discoveryplus.gif",
         "focusGifEnabled": true
       },
@@ -18082,7 +17902,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/mubi_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/mubi_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/mubi_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/mubi.gif",
         "focusGifEnabled": true
       },
@@ -18287,7 +18106,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/pluto-tv_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/pluto-tv_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/pluto-tv_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/pluto-tv.gif",
         "focusGifEnabled": true
       },
@@ -18524,7 +18342,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/documentary-streamers_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/documentary-streamers_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/documentary-streamers_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/documentary-streamers.gif",
         "focusGifEnabled": true
       },
@@ -18780,7 +18597,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/bbc-iplayer_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/bbc-iplayer_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/bbc-iplayer_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/bbc-iplayer.gif",
         "focusGifEnabled": true
       },
@@ -19036,7 +18852,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/itvx_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/itvx_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/itvx_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/itvx.gif",
         "focusGifEnabled": true
       },
@@ -19292,7 +19107,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/channel-4_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/channel-4_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/channel-4_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/channel-4.gif",
         "focusGifEnabled": true
       },
@@ -19517,7 +19331,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/now_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/now_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/now_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/now.gif",
         "focusGifEnabled": true
       },
@@ -19731,7 +19544,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/britbox_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/britbox_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/britbox_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/britbox.gif",
         "focusGifEnabled": true
       },
@@ -19956,7 +19768,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/my5_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/my5_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/my5_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/my5.gif",
         "focusGifEnabled": true
       },
@@ -20181,7 +19992,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/stan_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/stan_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/stan_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/stan.gif",
         "focusGifEnabled": true
       },
@@ -20406,7 +20216,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/binge_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/binge_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/binge_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/binge.gif",
         "focusGifEnabled": true
       },
@@ -20631,7 +20440,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/foxtel-now_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/foxtel-now_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/foxtel-now_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/foxtel-now.gif",
         "focusGifEnabled": true
       },
@@ -20887,7 +20695,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/abc-iview_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/abc-iview_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/abc-iview_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/abc-iview.gif",
         "focusGifEnabled": true
       },
@@ -21101,7 +20908,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/sbs-on-demand_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/sbs-on-demand_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/sbs-on-demand_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/sbs-on-demand.gif",
         "focusGifEnabled": true
       },
@@ -21326,7 +21132,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/crave_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/crave_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/crave_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/crave.gif",
         "focusGifEnabled": true
       },
@@ -21551,7 +21356,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/cbc-gem_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/cbc-gem_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/cbc-gem_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/cbc-gem.gif",
         "focusGifEnabled": true
       },
@@ -21776,7 +21580,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/tvnzplus_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/tvnzplus_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/tvnzplus_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/tvnzplus.gif",
         "focusGifEnabled": true
       },
@@ -21990,7 +21793,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/hayu_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/hayu_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/hayu_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/hayu.gif",
         "focusGifEnabled": true
       },
@@ -22204,7 +22006,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/acorn-tv_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/acorn-tv_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/acorn-tv_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/acorn-tv.gif",
         "focusGifEnabled": true
       },
@@ -22440,7 +22241,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/betplus_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/betplus_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/betplus_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/betplus.gif",
         "focusGifEnabled": true
       },
@@ -22495,7 +22295,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/fx_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/fx_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/fx_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/fx.gif",
         "focusGifEnabled": true
       },
@@ -22550,7 +22349,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/showtime_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/showtime_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/showtime_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/showtime.gif",
         "focusGifEnabled": true
       },
@@ -22638,7 +22436,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/hallmark_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/hallmark_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/hallmark_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/hallmark.gif",
         "focusGifEnabled": true
       },
@@ -22693,7 +22490,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/nbc_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/nbc_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/nbc_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/nbc.gif",
         "focusGifEnabled": true
       },
@@ -22748,7 +22544,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/abc_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/abc_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/abc_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/abc.gif",
         "focusGifEnabled": true
       },
@@ -22803,7 +22598,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/cbs_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/cbs_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/cbs_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/cbs.gif",
         "focusGifEnabled": true
       },
@@ -22858,7 +22652,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/fox_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/fox_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/fox_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/fox.gif",
         "focusGifEnabled": true
       },
@@ -22913,7 +22706,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/the-cw_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/the-cw_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/the-cw_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/the-cw.gif",
         "focusGifEnabled": true
       },
@@ -22968,7 +22760,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/comedy-central_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/comedy-central_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/comedy-central_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/comedy-central.gif",
         "focusGifEnabled": true
       },
@@ -23023,7 +22814,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/adult-swim_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/adult-swim_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/adult-swim_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/adult-swim.gif",
         "focusGifEnabled": true
       },
@@ -23078,7 +22868,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/national-geographic_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/national-geographic_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/national-geographic_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/national-geographic.gif",
         "focusGifEnabled": true
       },
@@ -23133,7 +22922,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/history_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/history_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/history_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/history.gif",
         "focusGifEnabled": true
       },
@@ -23188,7 +22976,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/bravo_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/bravo_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/bravo_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/bravo.gif",
         "focusGifEnabled": true
       },
@@ -23243,7 +23030,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/tlc_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/tlc_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/tlc_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/tlc.gif",
         "focusGifEnabled": true
       },
@@ -23298,7 +23084,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/sky_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/sky_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/sky_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/streaming-and-tv/sky.gif",
         "focusGifEnabled": true
       }
@@ -23383,7 +23168,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/k-dramas_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/k-dramas_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/k-dramas_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/k-dramas.gif",
         "focusGifEnabled": true
       },
@@ -23438,7 +23222,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/tvn-korea_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/tvn-korea_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/tvn-korea_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/tvn-korea.gif",
         "focusGifEnabled": true
       },
@@ -23533,7 +23316,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/korean_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/korean_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/korean_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/korean.gif",
         "focusGifEnabled": true
       },
@@ -23628,7 +23410,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/japanese_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/japanese_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/japanese_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/japanese.gif",
         "focusGifEnabled": true
       },
@@ -23723,7 +23504,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/chinese_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/chinese_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/chinese_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/chinese.gif",
         "focusGifEnabled": true
       },
@@ -23818,7 +23598,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/hong-kong_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/hong-kong_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/hong-kong_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/hong-kong.gif",
         "focusGifEnabled": true
       },
@@ -23995,7 +23774,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/indian_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/indian_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/indian_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/indian.gif",
         "focusGifEnabled": true
       },
@@ -24090,7 +23868,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/southeast-asian_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/southeast-asian_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/southeast-asian_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/southeast-asian.gif",
         "focusGifEnabled": true
       },
@@ -24185,7 +23962,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/middle-eastern_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/middle-eastern_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/middle-eastern_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/middle-eastern.gif",
         "focusGifEnabled": true
       },
@@ -24280,7 +24056,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/african_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/african_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/african_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/african.gif",
         "focusGifEnabled": true
       },
@@ -24375,7 +24150,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/french_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/french_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/french_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/french.gif",
         "focusGifEnabled": true
       },
@@ -24470,7 +24244,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/spanish_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/spanish_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/spanish_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/spanish.gif",
         "focusGifEnabled": true
       },
@@ -24565,7 +24338,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/italian_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/italian_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/italian_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/italian.gif",
         "focusGifEnabled": true
       },
@@ -24660,7 +24432,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/german_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/german_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/german_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/german.gif",
         "focusGifEnabled": true
       },
@@ -24760,7 +24531,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/british_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/british_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/british_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/british.gif",
         "focusGifEnabled": true
       },
@@ -24855,7 +24625,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/nordic_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/nordic_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/nordic_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/nordic.gif",
         "focusGifEnabled": true
       },
@@ -25032,7 +24801,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/latin-american_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/latin-american_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/latin-american_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/latin-american.gif",
         "focusGifEnabled": true
       },
@@ -25127,7 +24895,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/australian_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/australian_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/australian_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/world-cinema/australian.gif",
         "focusGifEnabled": true
       }
@@ -25425,7 +25192,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/kids-and-family/family-movie-night_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/kids-and-family/family-movie-night_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/kids-and-family/family-movie-night_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/kids-and-family/family-movie-night.gif",
         "focusGifEnabled": true
       },
@@ -25550,7 +25316,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/kids-and-family/animation_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/kids-and-family/animation_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/kids-and-family/animation_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/kids-and-family/animation.gif",
         "focusGifEnabled": true
       },
@@ -25649,7 +25414,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/kids-and-family/preschool_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/kids-and-family/preschool_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/kids-and-family/preschool_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/kids-and-family/preschool.gif",
         "focusGifEnabled": true
       },
@@ -25754,7 +25518,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/kids-and-family/classic-cartoons_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/kids-and-family/classic-cartoons_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/kids-and-family/classic-cartoons_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/kids-and-family/classic-cartoons.gif",
         "focusGifEnabled": true
       },
@@ -25837,7 +25600,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/kids-and-family/disney-channel_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/kids-and-family/disney-channel_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/kids-and-family/disney-channel_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/kids-and-family/disney-channel.gif",
         "focusGifEnabled": true
       },
@@ -25907,7 +25669,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/kids-and-family/nickelodeon_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/kids-and-family/nickelodeon_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/kids-and-family/nickelodeon_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/kids-and-family/nickelodeon.gif",
         "focusGifEnabled": true
       },
@@ -25962,7 +25723,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/kids-and-family/cartoon-network_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/kids-and-family/cartoon-network_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/kids-and-family/cartoon-network_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/kids-and-family/cartoon-network.gif",
         "focusGifEnabled": true
       }
@@ -26081,7 +25841,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/oscar-winners_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/oscar-winners_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/oscar-winners_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/oscar-winners.gif",
         "focusGifEnabled": true
       },
@@ -26190,7 +25949,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/golden-globe-winners_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/golden-globe-winners_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/golden-globe-winners_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/golden-globe-winners.gif",
         "focusGifEnabled": true
       },
@@ -26259,7 +26017,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/cannes-winners_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/cannes-winners_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/cannes-winners_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/cannes-winners.gif",
         "focusGifEnabled": true
       },
@@ -26470,7 +26227,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/2020s_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/2020s_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/2020s_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/2020s.gif",
         "focusGifEnabled": true
       },
@@ -26681,7 +26437,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/2010s_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/2010s_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/2010s_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/2010s.gif",
         "focusGifEnabled": true
       },
@@ -26892,7 +26647,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/2000s_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/2000s_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/2000s_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/2000s.gif",
         "focusGifEnabled": true
       },
@@ -27182,7 +26936,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/1990s_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/1990s_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/1990s_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/1990s.gif",
         "focusGifEnabled": true
       },
@@ -27456,7 +27209,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/1980s_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/1980s_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/1980s_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/1980s.gif",
         "focusGifEnabled": true
       },
@@ -27667,7 +27419,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/1970s_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/1970s_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/1970s_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/1970s.gif",
         "focusGifEnabled": true
       },
@@ -27878,7 +27629,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/1960s_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/1960s_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/1960s_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/1960s.gif",
         "focusGifEnabled": true
       },
@@ -28089,7 +27839,6 @@
         ],
         "coverImageUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/1950s_hero.jpg",
         "heroBackdropUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/1950s_hero.jpg",
-        "heroVideoUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/1950s_hero.mp4",
         "focusGifUrl": "https://raw.githubusercontent.com/EDGEL00P/nuvio-art/main/v6/decades-and-awards/1950s.gif",
         "focusGifEnabled": true
       }
